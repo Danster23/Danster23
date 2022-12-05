@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Danster23
-- 👀 I’m interested in ...
-- Comuter Science, Machine learning, Artificial Intellgience, General Ai 
-- 🌱 I’m currently learning ...
-- Computer Science Fundamentals, algorithms, and mathematics. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Daniel
+I have built a passion and interest for
+Comuter Science, Machine learning and Artificial Intellgience.
+
+Just a college nerd with some dreams. 
+
+
 
 <!---
 Danster23/Danster23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
